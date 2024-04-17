@@ -1,0 +1,12 @@
+package util;
+
+public enum View {
+	HOME,					// 기본화면
+	ADMIN_LOGIN,
+	
+	PROD_LIST, USER_LIST, BUY_LIST,
+	
+	ADD_PROD, UPDATE_PROD, DELETE_PROD,
+	
+	BUYMEMBER_LIST, PROD_QTY_LIST
+}
